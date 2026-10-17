@@ -1,0 +1,14 @@
+{
+  "name": "nexbot-bots-showcase",
+  "version": "1.0.0",
+  "description": "Showcase website for the Nexbot team's Rubika bots (ARMAK, Harwicks)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
